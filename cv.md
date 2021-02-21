@@ -1,0 +1,40 @@
+# **Iryna Osoba**
+
+* +38063869672
+* ir.osoba@gmail.com
+* skype: irka_osoba
+
+_I'm a beginning Front-end developer. I've finished a Coursera course on web design (JavaScript, Bootstrap, HTML5/CSS3). Also, I've learned Figma and Adobe XD on my own. Besides that, I've worked as an event manager at various tech conferences, so I've always been around IT._
+
+### Skills:
+* JavaScript
+* HTML5/CSS3
+* Bootstrap
+* Git
+* SQL
+* OOP
+* IntelliJ
+
+### Code
+```
+function positiveSum(arr) {
+  let sum = 0;
+  for (let i=0; i<arr.length; i++)
+    if (arr[i] > 0) {
+      sum += arr[i];
+    }
+  return sum;
+}
+```
+
+### Experience
+* Web-development for everybody, Coursera, 2019
+
+### Education
+* Web-development for everybody, Coursera, 2019_
+* Technology of electronic multimedia editions, Ukrainian academy of printing, 2010 - 2015
+* GDG woman meetup, Ukraine
+* Django girls, Ukraine
+
+### Languages
+* English — B1
