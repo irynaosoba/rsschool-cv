@@ -38,13 +38,14 @@ function narcissistic(value) {
 ```
 
 ### Experience
-* Web-development for everybody, Coursera, 2019
+* Web-development for everybody, _Coursera, 2019_
 
 ### Education
-* Web-development for everybody, Coursera, 2019_
-* Technology of electronic multimedia editions, Ukrainian academy of printing, 2010 - 2015
-* GDG woman meetup, Ukraine
-* Django girls, Ukraine
+* Web-development for everybody, _Coursera, 2019_
+* Technology of electronic multimedia editions,\
+ _Ukrainian academy of printing, 2010 - 2015_
+* GDG woman meetup, _Ukraine_
+* Django girls, _Ukraine_
 
 ### Languages
 * English — B1
