@@ -1,6 +1,6 @@
 # **Iryna Osoba**
 
-* +38063869672
+* +380638669672
 * ir.osoba@gmail.com
 * skype: irka_osoba
 
@@ -24,6 +24,16 @@ function positiveSum(arr) {
       sum += arr[i];
     }
   return sum;
+}
+```
+```
+function narcissistic(value) {
+  let sum = 0;
+  let num_str = value.toString();
+  for (let i=0; i<num_str.length; i++) {
+   sum += Math.pow(parseInt(num_str[i]), num_str.length);
+  }
+  return value === sum;
 }
 ```
 
