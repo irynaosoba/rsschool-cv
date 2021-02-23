@@ -10,7 +10,7 @@ header {
     position: relative
 }
 
-img {
+#personalPhoto {
     position: absolute;
     top: 59px;
     left: -141px;
