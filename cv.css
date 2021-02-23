@@ -24,3 +24,14 @@ img {
     font-weight: lighter;
     font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
 }
+
+#footerTable {
+    width: 50%;
+    height: 90px;
+    margin: auto;
+}
+
+#footerTable td{
+    width: 33.3%;
+    text-align: center;
+}
