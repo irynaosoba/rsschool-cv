@@ -1,0 +1,37 @@
+body {
+    width: 45%;
+    margin: auto;
+    padding-top: 40px;
+    font-size: 16px;
+    font-family: "Apple Braille", sans-serif, Helvetica, Arial;
+}
+
+header {
+    position: relative
+}
+
+#personalPhoto {
+    position: absolute;
+    top: 59px;
+    left: -141px;
+}
+
+.code_section {
+    background-color: #ececec;
+    padding: 10px;
+    margin: 15px 0;
+    font-size: 12px;
+    font-weight: lighter;
+    font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+}
+
+#footerTable {
+    width: 50%;
+    height: 90px;
+    margin: auto;
+}
+
+#footerTable td{
+    width: 33.3%;
+    text-align: center;
+}
